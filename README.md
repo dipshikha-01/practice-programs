@@ -1,7 +1,7 @@
 # practice-programs
 Find the largest and smallest among three numbers.
 <br>
-this includes if else block and swich statements .
+this includes if else block and swich statements.
 <br> 
 
 ## programming
